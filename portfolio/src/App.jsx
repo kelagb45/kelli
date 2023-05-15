@@ -12,8 +12,6 @@ import contact from './components/Contact/contact'
 import footer from './components/Footer/footer'
 
 
-
-
 function App() {
   return (
     <div>
